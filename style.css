@@ -1,0 +1,52 @@
+header{
+    
+    background-attachment:fixed;
+    clear:both;
+}
+main{
+    background-image:url("image/888239Sanstitre1.jpg");
+    background-attachment:fixed;
+    clear:both;
+    color:white;
+}
+img
+{float: left;
+}
+footer{
+    background-image:url("image/grey_W.png");
+    background-attachment:fixed;
+    clear:both;
+}
+.conteneur{
+    width:100%;
+    max-width:960px;
+
+    margin:15px;
+    margin:auto;
+}
+.colonne{
+    display:inline-block;
+    margin:10px;
+    width:30.5%;
+    vertical-align:top;
+}
+.colonne h1{
+    text-align:center;
+}
+td{
+    padding-top:4px;
+    text-align:justify;
+}
+.en_tete{
+    display:inline-block;
+    vertical-align:middle;
+}
+iframe{
+    width:50%;
+    vertical-align:middle;
+}
+.contact{
+    display:inline-block;
+    margin-left:30px;
+    vertical-align:middle;
+}
